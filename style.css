@@ -1,7 +1,20 @@
 .continer{
-    border: 1px solid ;
     display: flex;
     justify-content: center;
     height: 100vh;
     align-items: center;
+}
+button{
+    padding: 12px;
+    border-radius: 12px;
+    background-color: aqua;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aqua;
+
 }
